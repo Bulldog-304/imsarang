@@ -30,7 +30,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Front End Developer - Songwriter - Rapper </p>
+                <p class="masthead-subheading font-weight-light mb-0">Sarang is a JavaScript developer who likes to play with UI components to create interfaces with great UX. He specialises in Vue.js, Angular and loves sharing anything and everything that could help his fellow front-end web developers. Sarang also dabbles in Songwriting, Playing Guitar and Performing Rap. </p>
             </div>
         </header>
         <!-- Portfolio Section-->
@@ -166,12 +166,11 @@
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
-                        <h4 class="text-uppercase mb-4">About Freelancer</h4>
+                        <h4 class="text-uppercase mb-4">Reach out</h4>
                         <p class="lead mb-0">
-                            Freelance is a free to use, MIT licensed Bootstrap theme created by
-                            <a href="http://startbootstrap.com">Start Bootstrap</a>
-                            .
+                            info4sarang@gmail.com
                         </p>
+                        
                     </div>
                 </div>
             </div>
